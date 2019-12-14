@@ -1,0 +1,30 @@
+body {
+    background-image: url("Meat_products_Vegetables_457159.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.menu{
+    background-color:white;
+    padding: 10px;
+    border-radius: 7px 0px 7px;
+    opacity: 0.8;
+}
+.modal.fade{
+  opacity:1;
+}
+  /* .close {
+    position: relative;
+    right: 35px;
+    top: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+  } */
+  .modal.fade .modal-dialog {
+    transform: translate(0);
+    -webkit-transform: translate(0);
+   -moz-transform: translate(0);
+   
+ }
